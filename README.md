@@ -1,34 +1,42 @@
-# ALP Kaon Decay Rates Calculator
+# ALPs in Kaon Decays
 
-This repository contains Mathematica code for calculating the decay rates of kaons into axion-like particles (ALPs), including contributions from weak interactions. The primary focus is on three-body decay channels involving ALPs in the final state.
+This repository contains Mathematica code used to calculate the decay rates of kaons into axion-like particles (ALPs), including weak interaction contributions. The computation includes noth two and three-body decays and is applicable to rare decay studies and new physics searches involving ALPs. 
+For the low energy ALP couplings (including running effects), as well as the partial decay withds, we use the results of Ref.[[1]](#1).
 
 ## Features
 
-- Computes decay rates for kaon processes such as:
-  - $K^+ \to \pi^+ \pi^0 a$
-  - $K_L \to \pi^+ \pi^- a$
-  - $K_L \to \pi^0 \pi^0 a$
-- Includes both strong and weak interaction contributions.
-- Allows for momentum-dependent form factors and phase space integration.
+- Computes partial decay widths for kaon decays involving ALPs, 
+  - $K^+ \to \pi^+ a$,
+  - $K_{L/S} \to \pi^0 a$,
+  - $K_{L/S} \to \pi^0 \pi^0 a$,,
+  - $K_{L/S} \to \pi^+ \pi^- a$,
+- Partial ALP decay width to leptons (electron and muons) and photons. 
 
 ## File
 
-- `3_body_rates_clean.nb`: Main Mathematica notebook containing all symbolic and numerical computations for the decay rates.
+- `ALPs_in_kaon_decays.nb`: Main Mathematica notebook performing the calculations.
 
 ## Requirements
 
-- Wolfram Mathematica 12.0 or higher recommended.
+- Mathematica version 12.0 or later is recommended.
 
 ## Usage
 
-1. Open `3_body_rates_clean.nb` in Mathematica.
-2. Evaluate the notebook step-by-step or run all cells to compute the relevant decay widths.
-3. Modify particle masses and coupling constants as needed in the initial parameter section.
+1. Open `ALPs_in_kaon_decays.nb` in Mathematica.
+2. Evaluate initialization cells.
+3. Adjust input parameters as needed for your analysis.
 
-## Reference
+## License
 
-If you use this code for your research, please cite the relevant literature or contact the author for proper attribution.
+This code is provided for academic use. Please credit the author appropriately in any work making use of it.
 
----
+## Disclaimer
 
-This project was developed to support theoretical studies of ALP production in kaon decays, particularly relevant for rare decay searches and beam dump experiments.
+The code is provided as-is, with no guarantee of correctness. It is intended as a research tool for theorists working on kaon decays and ALP phenomenology.
+
+## References
+<a id="1">[1]</a> 
+M. Bauer, M. Neubert, S. Renner, M. Schnubel, A. Thamm. The Low-Energy Effective Theory of Axions and ALPs.
+e-Print: [2012.12272](2012.12272)
+DOI: 10.1007/JHEP04(2021)063
+Published in: JHEP 04 (2021), 063
