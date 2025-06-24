@@ -1,7 +1,7 @@
 # ALPs in Kaon Decays
 
-This repository contains Mathematica notebook used to calculate the decay rates of kaons into axion-like particles (ALPs), including weak interaction contributions. The computation includes noth two and three-body decays and is applicable to rare decay studies and new physics searches involving ALPs. 
-For the low energy ALP couplings (including running effects), as well as the partial decay withds, we use the results of Ref.[[1]](#1).
+This repository contains Mathematica notebook used to calculate the decay rates of kaons into axion-like particles (ALPs), including weak interaction contributions[[1]](#1). The computation includes noth two and three-body decays and is applicable to rare decay studies and new physics searches involving ALPs. 
+For the low energy ALP couplings (including running effects), as well as the partial decay withds, we use the results of Ref.[[2]](#2).
 
 ## Features
 
@@ -36,6 +36,9 @@ The code is provided as-is, with no guarantee of correctness. It is intended as 
 
 ## References
 <a id="1">[1]</a> 
+To appear
+
+<a id="2">[2]</a> 
 M. Bauer, M. Neubert, S. Renner, M. Schnubel, A. Thamm. The Low-Energy Effective Theory of Axions and ALPs.
 e-Print: [2012.12272](https://arxiv.org/abs/2012.12272)
 DOI: [10.1007/JHEP04(2021)063](https://link.springer.com/article/10.1007/JHEP04(2021)063)
