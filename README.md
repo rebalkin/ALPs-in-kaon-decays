@@ -6,10 +6,10 @@ For the low energy ALP couplings (including running effects), as well as the par
 ## Features
 
 - Computes partial decay widths for kaon decays involving ALPs, 
-  - $K^+ \to \pi^+ a$,
-  - $K_{L/S} \to \pi^0 a$,
-  - $K_{L/S} \to \pi^0 \pi^0 a$,,
-  - $K_{L/S} \to \pi^+ \pi^- a$,
+  - $K^+ \to \pi^+ a$
+  - $K_{L/S} \to \pi^0 a$
+  - $K_{L/S} \to \pi^0 \pi^0 a$,
+  - $K_{L/S} \to \pi^+ \pi^- a$
 - Partial ALP decay width to leptons (electron and muons) and photons. 
 
 ## File
