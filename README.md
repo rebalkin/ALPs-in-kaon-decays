@@ -37,6 +37,6 @@ The code is provided as-is, with no guarantee of correctness. It is intended as 
 ## References
 <a id="1">[1]</a> 
 M. Bauer, M. Neubert, S. Renner, M. Schnubel, A. Thamm. The Low-Energy Effective Theory of Axions and ALPs.
-e-Print: [2012.12272]([arxiv.org/hep-ph/2012.12272](https://arxiv.org/abs/2012.12272))
+e-Print: [2012.12272]([arxiv.org/hep-ph/2012.12272](https://arxiv.org/abs/2012.12272)
 DOI: [10.1007/JHEP04(2021)063](10.1007/JHEP04(2021)063)
 Published in: JHEP 04 (2021), 063
