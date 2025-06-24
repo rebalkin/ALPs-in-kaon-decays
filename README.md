@@ -28,7 +28,7 @@ For the low energy ALP couplings (including running effects), as well as the par
 
 ## License
 
-This code is provided for academic use. Please credit the author appropriately in any work making use of it.
+This code is provided for academic use. Please cite [[1]](#1) in any work making use of it.
 
 ## Disclaimer
 
